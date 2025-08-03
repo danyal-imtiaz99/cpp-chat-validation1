@@ -1,0 +1,3 @@
+/Users/d.imtiaz/Desktop/2025/C++/ChatValidation/build/CMakeFiles/ChatValidation.dir
+/Users/d.imtiaz/Desktop/2025/C++/ChatValidation/build/CMakeFiles/edit_cache.dir
+/Users/d.imtiaz/Desktop/2025/C++/ChatValidation/build/CMakeFiles/rebuild_cache.dir
